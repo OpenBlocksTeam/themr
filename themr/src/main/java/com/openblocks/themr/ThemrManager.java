@@ -9,7 +9,7 @@ public class ThemrManager {
     public static String appDataPath = Environment.getDataDirectory().getAbsolutePath();
     public static String appDataThemesPath = appDataPath + "/themes/";
 
-    public static String appDataDefaultThemePath = appDataThemesPath + "default_light.thm.json";
+    public static String appDataDefaultThemePath = appDataThemesPath + "default_light.thmjson";
 
     public static void init() {
         if (!FileUtil.isDirectoryExists(appDataThemesPath))

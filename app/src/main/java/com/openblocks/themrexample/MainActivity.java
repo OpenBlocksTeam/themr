@@ -3,6 +3,7 @@ package com.openblocks.themrexample;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+//import com.openblocks.themr.ThemrManager;
 
 import java.security.AlgorithmParameterGenerator;
 
